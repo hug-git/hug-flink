@@ -1,0 +1,6 @@
+sensor_2,572.82
+sensor_2,574.45
+sensor_2,572.18
+sensor_2,572.8
+sensor_2,572.72
+sensor_2,572.32
